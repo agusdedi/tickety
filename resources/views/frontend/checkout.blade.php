@@ -116,7 +116,7 @@
                                 <img src="{{ asset('assets/svgs/logo-mandiri.svg') }}" alt="tickety-assets">
                                 <div>
                                     <p class="text-xs font-medium mb-[2px]">
-                                        PT SHAYNA TICKET
+                                        PT GUREEN TICKET
                                     </p>
                                     <p class="text-lg font-semibold text-secondary">
                                         1892 0930 0001
@@ -128,7 +128,7 @@
                                 <img src="{{ asset('assets/svgs/logo-bca.svg') }}" alt="tickety-assets">
                                 <div>
                                     <p class="text-xs font-medium mb-[2px]">
-                                        PT SHAYNA TICKET
+                                        PT GUREEN TICKET
                                     </p>
                                     <p class="text-lg font-semibold text-secondary">
                                         2208 1962 9102
